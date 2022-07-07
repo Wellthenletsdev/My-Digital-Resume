@@ -1,0 +1,14 @@
+body{
+  font-family: sans-serif;
+  font-size:110%;
+  background-color: #eef1f4;
+}
+
+header {
+  text-align: center;color: blanchedalmond;
+}
+
+footer {
+  background-color: #1c9881;
+  text-align: center;
+}
