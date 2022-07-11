@@ -1,14 +1,19 @@
 body{
   font-family: sans-serif;
   font-size:110%;
-  background-color: #eef1f4;
+  background-color: rgb(28, 152, 209);
+  margin-left: 500px;
 }
 
 header {
-  text-align: center;color: blanchedalmond;
+  text-align: center;
+  background-color:rgb(40, 59, 159);
 }
 
 footer {
-  background-color: #1c9881;
+  background-color: #343330;
   text-align: center;
 }
+h2{color: rgb(17, 192, 201);}
+h1{font-size: 50%;}
+
